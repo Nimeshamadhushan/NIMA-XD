@@ -53,7 +53,7 @@ Authenticate using **one** of the methods below to generate your `Session ID`.
 
 > 🔵 QR Code Authentication
 
-[![Scan QR Code](https://img.shields.io/badge/Scan%20QR%20Code-000000?style=for-the-badge&logo=react&logoColor=white)](https://NIMAxd-pairsession.onrender.com/qr)
+[![Scan QR Code](https://img.shields.io/badge/Scan%20QR%20Code-000000?style=for-the-badge&logo=react&logoColor=white)](https://malvinxd-pairsession.onrender.com/qr)
 
 
 
