@@ -1,0 +1,31 @@
+
+{
+"bot-name": "NIMA-XD",
+  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ NIMA ᴋɪɴɢ",
+  "logo": "https://files.catbox.moe/juxfce.jpg",
+  "keywords": ["bot"],
+  "documentation-link": "https://NIMAxd-pairsession.onrender.com/",
+    "owner-verification":"NIMAk003@gmail.com",
+  
+    "env": {
+      "SESSION_ID": {
+        "description": "Put your SESSION_ID here. It starts with NIMA~",
+        "value":"",
+        "required": true
+        
+      },
+      
+    "OWNER_NUMBER": {
+      "description": "Enter owner number",
+      "required": true,
+      "value": "94726800969"
+      
+       },
+      "TIMEZONE": {
+      "description": "Enter country timezone",
+      "required": true,
+      "value": "Asia/Colombo"
+
+    }  
+  }
+}
