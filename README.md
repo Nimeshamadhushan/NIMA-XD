@@ -6,10 +6,6 @@
 </p>
 
 <p align="center">
-  <img src="https://ibb.co/vCVcJC3f" />
-</p>
-
-<p align="center">
   <img src="https://i.postimg.cc/029xmZVt/IMG-20250801-003906-211.jpg" />
 </p>
 
