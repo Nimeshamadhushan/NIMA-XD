@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://ibb.co/vCVcJC3f" />
+  <img src="[https://ibb.co/vCVcJC3f](https://i.postimg.cc/029xmZVt/IMG-20250801-003906-211.jpg)" />
 </p>
 
 <!-- 📊 STATS & HERO ANIMATION (Updated Colors) -->
