@@ -9,6 +9,10 @@
   <img src="https://ibb.co/vCVcJC3f" />
 </p>
 
+<p align="center">
+  <img src="https://ibb.co/vCVcJC3f" />
+</p>
+
 <!-- 📊 STATS & HERO ANIMATION (Updated Colors) -->
 <div align="center">
 
